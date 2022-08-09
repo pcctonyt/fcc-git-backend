@@ -1,0 +1,22 @@
+{
+	"name": "fcc-learn-npm-package-json",
+	"author": "Anthony Thompson",
+	"description": "First attempt at completing freeCodeCamp's Backend Development and APIS--Managing Packages with npm--block of lessons",
+	"keywords": ["freecodecamp", "packages", "npm", "backend", "development", "APIs"],
+	"license": "MIT",
+	"version": "1.0.0",
+	"dependencies": {
+		"package-name": "@freecodecamp/example",
+		"package": "^1.2.13",
+		"express": "1.1.0"
+	  },
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
+}
+
